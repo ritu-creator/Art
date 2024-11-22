@@ -6,3 +6,4 @@ The repository contains some of my paintings.
 Description
 
 ![The Apricot Sky Above The Mystic Blue Mountins](./Apricot-Shade-of-the-Sky.jpg)
+
