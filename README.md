@@ -7,8 +7,8 @@ It feels as though the setting sun bids farewell to the day, retreating beyond t
 
 ![The Apricot Sky Above The Mystic Blue Mountins](./Apricot-Shade-of-the-Sky.jpg)
 
-## 2. The Gentle Sunset Behind the Pine Trees Reflects on the Calm Waters
+## 2. Amber Glow of Twilight With Pines Reflects on Calm Waters
 
 A serene sunset graces the horizon, casting a golden glow over calm waters. Tall pine trees rame the scene, their silhouettes blending harmoniously with the tranquil sky. The reflection in the water mirrors nature's quit beauty, evoking a sense of peace and stillness.
 
-![The Gentle Sunset Behind the Pine Trees Reflects on the Calm Waters](./Sunset-Behind-Pines-Reflects-on-Calm-Waters.jpg)
+![Amber Glow of Twilight With Pines Reflects on Calm Waters](./Amber-Glow-of-Twilight-With-Pines-Reflects-on-Calm-Waters.jpg)
