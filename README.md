@@ -18,3 +18,9 @@ A serene sunset graces the horizon, casting a golden glow over calm waters. Tall
 
 
 ![Moonrise Above Scarlet River](./Moonrise-Above-Scarlet-River.jpg)
+
+## 4. The Candle's Embrace Glowing in theD ark
+
+
+
+![The Candle's Embrace Glowing in theD ark](./The-Candle's-Embrace-Glowing-in-the-Dark.jpg)
