@@ -12,3 +12,9 @@ It feels as though the setting sun bids farewell to the day, retreating beyond t
 A serene sunset graces the horizon, casting a golden glow over calm waters. Tall pine trees rame the scene, their silhouettes blending harmoniously with the tranquil sky. The reflection in the water mirrors nature's quit beauty, evoking a sense of peace and stillness.
 
 ![Amber Glow of Twilight With Pines Reflects on Calm Waters](./Amber-Glow-of-Twilight-With-Pines-Reflects-on-Calm-Waters.jpg)
+
+## 3. Moonrise Above Scarlet River
+
+
+
+![Moonrise Above Scarlet River](./Moonrise-Above-Scarlet-River.jpg)
