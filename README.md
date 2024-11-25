@@ -24,3 +24,8 @@ A serene sunset graces the horizon, casting a golden glow over calm waters. Tall
 
 
 ![The Candle's Embrace Glowing in theD ark](./The-Candle's-Embrace-Glowing-in-the-Dark.jpg)
+
+## 5. Snowman in Winter Glow
+
+
+![Snowman in Winter Glow](./Snowman-in-Winter-Glow.jpg)
