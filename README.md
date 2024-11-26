@@ -1,7 +1,7 @@
 # My Art
 The repository contains some of my paintings.
 
-## 1. The Apricot Sky Above The Mystic Blue Mountins
+## 1. The Apricot Sky Above The Mystic Blue Mountains
 
 It feels as though the setting sun bids farewell to the day, retreating beyond the azure hills to rest in the crimson embrace. The formless sky, painted with hues of milk and vermilion, crafts an ethereal canvus. Draped in the veil of twilight, the pine trees, too, lend their charm, exuding a serene splendor.
 
