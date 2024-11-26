@@ -29,3 +29,7 @@ A serene sunset graces the horizon, casting a golden glow over calm waters. Tall
 
 
 ![Snowman in Winter Glow](./Snowman-in-Winter-Glow.jpg)
+
+## 6. Withered Branches Along with the Feading Moon
+
+![Withered Branches Along with the Feading Moon](./Withered-Branches-Along-with-the-Feading-Moon.jpg)
