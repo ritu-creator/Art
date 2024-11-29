@@ -33,3 +33,8 @@ A tranquil night scene. The bright full moonlight creates a soothing atmosphere 
 ## 6. Withered Branches Along with the Feading Moon
 
 ![Withered Branches Along with the Feading Moon](./Withered-Branches-Along-with-the-Feading-Moon.jpg)
+
+## 7. Silent Shadows of Night
+
+
+![Silent Shadows of Night](./Silent-Shadows-of-Night.jpg)
