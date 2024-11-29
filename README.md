@@ -15,7 +15,7 @@ A serene sunset graces the horizon, casting a golden glow over calm waters. Tall
 
 ## 3. Moonrise Above Scarlet River
 
-
+A tranquil night scene. The bright full moonlight creates a soothing atmosphere against the deep violet background of the sky. The moon's glow reflects on the calm water, forming a silvery path. The silhouettes of tall trees on both sides add depth and natural beauty to the painting. The contrast between the bright moon and the dark elements enhances the painting's charm and captivating ambiance.
 
 ![Moonrise Above Scarlet River](./Moonrise-Above-Scarlet-River.jpg)
 
