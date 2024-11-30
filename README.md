@@ -38,3 +38,7 @@ A tranquil night scene. The bright full moonlight creates a soothing atmosphere 
 
 
 ![Silent Shadows of Night](./Silent-Shadows-of-Night.jpg)
+
+## 8. Azure Waterfalls Cascading Through Rocks in the Stilness of Nature
+
+![Azure Waterfalls Cascading Through Rocks in the Stilness of Nature](./Azure-Waterfalls-Cascading-Through-Rocks-in-the-Stilness-of-Nature.jpg)
