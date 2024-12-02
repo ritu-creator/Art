@@ -21,9 +21,9 @@ A tranquil night scene. The bright full moonlight creates a soothing atmosphere 
 
 ## 4. The Candle's Embrace Glowing in the Dark
 
+The melting candle stands as if weeping silent tears, illuminating the darkness around. It embodies a subtle sense of melancholy, a quiet reflection of sorrow. The flame atop dances gracefully, steadfast yet alive, spreading the warmth of a serene glow, like a flicker of hope amidst the vast shadows. The surrounding blurred light paints a dreamlike realm, where faded memories seem to drift gently in the air. The candle’s steady radiance, juxtaposed with the soft, pulsating background, evokes an eternal beauty, touching the soul with a quiet intoxication of solitude and thought.
 
-
-![The Candle's Embrace Glowing in theD ark](./The-Candle's-Embrace-Glowing-in-the-Dark.jpg)
+![The Candle's Embrace Glowing in the Dark](./The-Candle's-Embrace-Glowing-in-the-Dark.jpg)
 
 ## 5. Snowman in Winter Glow
 
