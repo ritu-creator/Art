@@ -63,6 +63,6 @@ A vibrant depiction of nature, where the unmatched melody of its essence unfolds
 
 ## 13. Echoes of the golden hour 
 
-
+I wrote an article about this painting. (./https://medium.com/@maineelite9/echoes-of-the-golden-hour-where-the-sky-embraces-the-water-930e412a3eab)
 
 ![Echoes of the golden hour](./Echoes-of-the-golden-hour-pt-2.jpg)
