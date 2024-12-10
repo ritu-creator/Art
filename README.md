@@ -60,3 +60,7 @@ A vibrant depiction of nature, where the unmatched melody of its essence unfolds
 ## 12. Girl in Autumn Forest
 
 ![Girl in Autumn Forest](./Girl-in-Autumn-Forest.jpg)
+
+## 13. Echoes of the golden hour original
+
+![Echoes of the golden hour original](./Echoes-of-the-golden-hour-original.jpg)
