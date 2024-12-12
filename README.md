@@ -63,6 +63,10 @@ A vibrant depiction of nature, where the unmatched melody of its essence unfolds
 
 ## 13. Echoes of the golden hour 
 
-I wrote an article about this painting. (./https://medium.com/@maineelite9/echoes-of-the-golden-hour-where-the-sky-embraces-the-water-930e412a3eab)
+This painting represents more than just a visual expression, it holds a fragment of my soul. 
+The golden hues of the sky and the gentle ripples on the water reminded me of life’s balance, chaotic yet peaceful. 
+Through this painting, I felt a deep connection with nature, which continues to inspire and heal me.
+
+Read more about the painting in my article [Echoes of The Golden Hour](https://medium.com/@maineelite9/echoes-of-the-golden-hour-where-the-sky-embraces-the-water-930e412a3eab)
 
 ![Echoes of the golden hour](./Echoes-of-the-golden-hour-pt-2.jpg)
