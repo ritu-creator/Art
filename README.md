@@ -70,3 +70,7 @@ Through this painting, I felt a deep connection with nature, which continues to 
 Read more about the painting in my article [Echoes of The Golden Hour](https://medium.com/@maineelite9/echoes-of-the-golden-hour-where-the-sky-embraces-the-water-930e412a3eab)
 
 ![Echoes of the golden hour](./Echoes-of-the-golden-hour-pt-2.jpg)
+
+## 14. Hanging Basket of Flowers
+
+![Hanging Basket of Flowers](./Hanging-Basket-of-Flowers.jpg)
