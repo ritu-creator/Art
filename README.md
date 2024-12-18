@@ -74,3 +74,7 @@ Read more about the painting in my article [Echoes of The Golden Hour](https://m
 ## 14. Hanging Basket of Flowers
 
 ![Hanging Basket of Flowers](./Hanging-Basket-of-Flowers.jpg)
+
+## 15. Wolf Moon
+
+! [WolfMoon](./Wolf-Moon.jpg)
