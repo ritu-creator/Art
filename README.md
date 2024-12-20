@@ -77,4 +77,8 @@ Read more about the painting in my article [Echoes of The Golden Hour](https://m
 
 ## 15. Wolf Moon
 
-! [WolfMoon](./Wolf-Moon.jpg)
+![WolfMoon](./Wolf-Moon.jpg)
+
+## 16. Skyline Serenity Echoes of the City
+
+![Skyline Serenity Echoes of the City](./Skyline-Serenity-Echoes-of-the-City.jpg)
