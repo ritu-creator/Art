@@ -30,7 +30,7 @@ The melting candle stands as if weeping silent tears, illuminating the darkness 
 
 ![Snowman in Winter Glow](./Snowman-in-Winter-Glow.jpg)
 
-## 6. Withered Branches Along with the Feading Moon
+## 6. Withered Branches Along With the Feading Moon
 
 ![Withered Branches Along with the Feading Moon](./Withered-Branches-Along-with-the-Feading-Moon.jpg)
 
