@@ -82,3 +82,7 @@ Read more about the painting in my article [Echoes of The Golden Hour](https://m
 ## 16. Skyline Serenity Echoes of the City
 
 ![Skyline Serenity Echoes of the City](./Skyline-Serenity-Echoes-of-the-City.jpg)
+
+## 17. Violin Painting
+
+![Violin Painting](./Violin-Painting.jpg)
