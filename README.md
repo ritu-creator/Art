@@ -27,6 +27,7 @@ The melting candle stands as if weeping silent tears, illuminating the darkness 
 
 ## 5. Snowman in Winter Glow
 
+A charming snowman stands tall beneath a starlit winter sky, its carrot nose pointing cheerfully forward. Adorned in a deep red top hat dusted with snow and a matching scarf, it radiates warmth amidst the frosty air. Twigs form its playful arms, one of which tenderly holds a glowing lantern, casting a golden hue against the serene night. Flurries of snowflakes gently fall, adding a magical touch to this festive tableau.
 
 ![Snowman in Winter Glow](./Snowman-in-Winter-Glow.jpg)
 
