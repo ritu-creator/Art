@@ -80,7 +80,7 @@ Read more about the painting in my article [Echoes of The Golden Hour](https://m
 
 ## 15. Wolf Moon
 
-This painting captures the serene beauty of a moonlit forest. The glowing yellow moon takes center stage, casting its warm radiance over the dark, silhouetted pine trees that reach upwards against the soft gray sky. The textured details, paired with the scattered hints of starlight, evoke a sense of calm and mystery. The contrast between the luminous moon and the shadowy forest creates a captivating balance, drawing the viewer into a peaceful, magical night scene.
+This painting captures the serene beauty of a moonlit forest. The glowing yellow moon takes center stage, casting its warm radiance over the dark, silhouetted pine trees that reach upwards against the soft gray sky. The textured details, paired with the scattered hints of starlight, evoke a sense of calm and mystery. The contrast between the luminous moon and the shadowy forest creates a captivating balance, drawing the viewer into a peaceful, magical night scene.
 
 ![WolfMoon](./Wolf-Moon.jpg)
 
