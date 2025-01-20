@@ -90,4 +90,6 @@ This painting captures the serene beauty of a moonlit forest. The glowing yellow
 
 ## 17. Violin Painting
 
+This painting captures a poignant scene where a vibrant violin rests serenely amidst a misty, ethereal landscape. Soft, diffused light pierces through the cloudy sky, bathing the instrument and surrounding fields in a melancholic glow. The interplay of the violin’s rich hues against the muted grayscale background evokes a sense of solitude and the enduring power of music in a tranquil, dreamlike world.
+
 ![Violin Painting](./Violin-Painting.jpg)
