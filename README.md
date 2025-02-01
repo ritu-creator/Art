@@ -60,6 +60,8 @@ This serene painting captures the tranquil beauty of a moonlit night by a calm l
 
 ## 11. Sunset Evening
 
+This painting beautifully captures a serene evening scene with a mesmerizing sky transitioning from soft pink to deep blue. Three elegant street lamps, glowing warmly, stand tall against drifting clouds, adding a dreamy ambiance. Lush green trees frame the composition, enhancing the depth and tranquility of the setting. The contrast between the golden lights and the cool tones of the sky creates a peaceful yet enchanting atmosphere, evoking a sense of nostalgia and calmness.
+
 ![Sunset Evening](./Sunset-Evening.jpg)
 
 ## 12. Girl in Autumn Forest
